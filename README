@@ -1,0 +1,2 @@
+Interpreter for BrainFuck language.
+Used patterns: Command, Abstract Factory.
